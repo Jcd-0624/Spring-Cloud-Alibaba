@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Spring-Cloud-Alibaba.iml" filepath="$PROJECT_DIR$/Spring-Cloud-Alibaba.iml" />
+      <module fileurl="file://$PROJECT_DIR$/nacos-config/nacos-config.iml" filepath="$PROJECT_DIR$/nacos-config/nacos-config.iml" />
       <module fileurl="file://$PROJECT_DIR$/nacos-consumer/nacos-consumer.iml" filepath="$PROJECT_DIR$/nacos-consumer/nacos-consumer.iml" />
       <module fileurl="file://$PROJECT_DIR$/nacos-producer/nacos-producer.iml" filepath="$PROJECT_DIR$/nacos-producer/nacos-producer.iml" />
     </modules>
