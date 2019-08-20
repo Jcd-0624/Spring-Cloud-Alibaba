@@ -6,11 +6,13 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="nacos-consumer" />
         <module name="nacos-producer" />
         <module name="Spring-Cloud-Alibaba" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="nacos-consumer" target="1.8" />
       <module name="nacos-producer" target="1.8" />
       <module name="Spring-Cloud-Alibaba" target="1.8" />
     </bytecodeTargetLevel>
