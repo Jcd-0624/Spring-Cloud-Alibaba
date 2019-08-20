@@ -2,12 +2,45 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3db988a3-75b4-442c-9b96-325f565b005e" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/nacos-consumer/src/main/java/com/chadj/nacosconsumer/controller/SayHelloController.java" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_code_findbugs_annotations_3_0_1.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_fileupload_commons_fileupload_1_3_3.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_github_openfeign_feign_core_9_7_0.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_github_openfeign_feign_hystrix_9_7_0.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_github_openfeign_feign_java8_9_7_0.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_github_openfeign_feign_slf4j_9_7_0.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_github_openfeign_form_feign_form_3_3_0.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_github_openfeign_form_feign_form_spring_3_3_0.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_buffer_4_1_29_Final.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_codec_4_1_29_Final.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_codec_http_4_1_29_Final.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_codec_socks_4_1_29_Final.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_common_4_1_29_Final.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_handler_4_1_29_Final.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_handler_proxy_4_1_29_Final.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_resolver_4_1_29_Final.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_transport_4_1_29_Final.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_transport_native_epoll_linux_x86_64_4_1_29_Final.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_transport_native_unix_common_4_1_29_Final.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_projectreactor_ipc_reactor_netty_0_7_9_RELEASE.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_projectreactor_reactor_core_3_1_9_RELEASE.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_jcip_jcip_annotations_1_0.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_aspectj_aspectjweaver_1_8_13.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_reactivestreams_reactive_streams_1_0_2.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_aop_2_0_5_RELEASE.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_reactor_netty_2_0_5_RELEASE.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_webflux_2_0_5_RELEASE.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_openfeign_core_2_0_2_RELEASE.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_openfeign_2_0_2_RELEASE.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_webflux_5_0_9_RELEASE.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_synchronoss_cloud_nio_multipart_parser_1_1_0.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_synchronoss_cloud_nio_stream_storage_1_1_3.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/nacos-consumer/src/main/java/com/chadj/nacosconsumer/controller/Feign.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/nacos-consumer/src/main/java/com/chadj/nacosconsumer/controller/WebClientController.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/nacos-consumer/src/main/java/com/chadj/nacosconsumer/fegin/HelloClient.java" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/nacos-consumer/pom.xml" afterPath="$PROJECT_DIR$/nacos-consumer/pom.xml" />
+      <change beforePath="$PROJECT_DIR$/nacos-consumer/src/main/java/com/chadj/nacosconsumer/NacosConsumerApplication.java" afterPath="$PROJECT_DIR$/nacos-consumer/src/main/java/com/chadj/nacosconsumer/NacosConsumerApplication.java" />
+      <change beforePath="$PROJECT_DIR$/nacos-consumer/src/main/java/com/chadj/nacosconsumer/controller/SayHelloController.java" afterPath="$PROJECT_DIR$/nacos-consumer/src/main/java/com/chadj/nacosconsumer/controller/SayHelloController.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -28,6 +61,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+        <option value="Interface" />
       </list>
     </option>
   </component>
@@ -47,10 +81,13 @@
         <option value="$PROJECT_DIR$/nacos-producer/src/main/resources/application.properties" />
         <option value="$PROJECT_DIR$/nacos-producer/pom.xml" />
         <option value="$PROJECT_DIR$/nacos-producer/src/main/java/com/chadj/producer/controller/HelloController.java" />
-        <option value="$PROJECT_DIR$/nacos-consumer/pom.xml" />
-        <option value="$PROJECT_DIR$/nacos-consumer/src/main/java/com/chadj/nacosconsumer/NacosConsumerApplication.java" />
-        <option value="$PROJECT_DIR$/nacos-consumer/src/main/java/com/chadj/nacosconsumer/controller/SayHelloController.java" />
         <option value="$PROJECT_DIR$/nacos-consumer/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/nacos-consumer/src/main/java/com/chadj/nacosconsumer/controller/SayHelloController.java" />
+        <option value="$PROJECT_DIR$/nacos-consumer/pom.xml" />
+        <option value="$PROJECT_DIR$/nacos-consumer/src/main/java/com/chadj/nacosconsumer/controller/Feign.java" />
+        <option value="$PROJECT_DIR$/nacos-consumer/src/main/java/com/chadj/nacosconsumer/NacosConsumerApplication.java" />
+        <option value="$PROJECT_DIR$/nacos-consumer/src/main/java/com/chadj/nacosconsumer/fegin/HelloClient.java" />
+        <option value="$PROJECT_DIR$/nacos-consumer/src/main/java/com/chadj/nacosconsumer/controller/WebClientController.java" />
       </list>
     </option>
   </component>
@@ -173,37 +210,57 @@
             <path>
               <item name="Spring-Cloud-Alibaba" type="b2602c69:ProjectViewProjectNode" />
               <item name="Spring-Cloud-Alibaba" type="462c0819:PsiDirectoryNode" />
-              <item name="nacos-producer" type="462c0819:PsiDirectoryNode" />
+              <item name="nacos-consumer" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Spring-Cloud-Alibaba" type="b2602c69:ProjectViewProjectNode" />
               <item name="Spring-Cloud-Alibaba" type="462c0819:PsiDirectoryNode" />
-              <item name="nacos-producer" type="462c0819:PsiDirectoryNode" />
+              <item name="nacos-consumer" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Spring-Cloud-Alibaba" type="b2602c69:ProjectViewProjectNode" />
               <item name="Spring-Cloud-Alibaba" type="462c0819:PsiDirectoryNode" />
-              <item name="nacos-producer" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Spring-Cloud-Alibaba" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Spring-Cloud-Alibaba" type="462c0819:PsiDirectoryNode" />
-              <item name="nacos-producer" type="462c0819:PsiDirectoryNode" />
+              <item name="nacos-consumer" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Spring-Cloud-Alibaba" type="b2602c69:ProjectViewProjectNode" />
               <item name="Spring-Cloud-Alibaba" type="462c0819:PsiDirectoryNode" />
-              <item name="nacos-producer" type="462c0819:PsiDirectoryNode" />
+              <item name="nacos-consumer" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="producer" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Spring-Cloud-Alibaba" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Spring-Cloud-Alibaba" type="462c0819:PsiDirectoryNode" />
+              <item name="nacos-consumer" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="nacosconsumer" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Spring-Cloud-Alibaba" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Spring-Cloud-Alibaba" type="462c0819:PsiDirectoryNode" />
+              <item name="nacos-consumer" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="nacosconsumer" type="462c0819:PsiDirectoryNode" />
+              <item name="controller" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Spring-Cloud-Alibaba" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Spring-Cloud-Alibaba" type="462c0819:PsiDirectoryNode" />
+              <item name="nacos-consumer" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="nacosconsumer" type="462c0819:PsiDirectoryNode" />
+              <item name="fegin" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -241,7 +298,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Spring Boot.NacosProducerApplication">
+  <component name="RunManager" selected="Application.NacosConsumerApplication">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="HTML_USED" value="false" />
       <option name="WIDTH" value="400" />
@@ -372,12 +429,12 @@
       <option name="presentableId" value="Default" />
       <updated>1566267909295</updated>
       <workItem from="1566267944713" duration="398000" />
-      <workItem from="1566268560612" duration="6242000" />
+      <workItem from="1566268560612" duration="8362000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6640000" />
+    <option name="totallyTimeSpent" value="8760000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1912" y="-8" width="1936" height="1056" extended-state="0" />
@@ -481,29 +538,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/nacos-consumer/pom.xml">
-      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="9" column="13" lean-forward="true" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/nacos-consumer/src/main/resources/application.properties">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="57">
           <caret line="3" column="8" lean-forward="false" selection-start-line="3" selection-start-column="8" selection-end-line="3" selection-end-column="8" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/nacos-consumer/src/main/java/com/chadj/nacosconsumer/NacosConsumerApplication.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="15" column="0" lean-forward="true" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -518,8 +556,55 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/nacos-consumer/src/main/java/com/chadj/nacosconsumer/controller/SayHelloController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="456">
-          <caret line="30" column="50" lean-forward="false" selection-start-line="30" selection-start-column="50" selection-end-line="30" selection-end-column="50" />
+        <state relative-caret-position="399">
+          <caret line="27" column="0" lean-forward="true" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nacos-consumer/pom.xml">
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="475">
+          <caret line="49" column="54" lean-forward="false" selection-start-line="49" selection-start-column="45" selection-end-line="49" selection-end-column="54" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nacos-consumer/src/main/java/com/chadj/nacosconsumer/controller/WebClientController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="34" column="27" lean-forward="true" selection-start-line="34" selection-start-column="27" selection-end-line="34" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nacos-consumer/src/main/java/com/chadj/nacosconsumer/controller/Feign.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="16" column="42" lean-forward="true" selection-start-line="16" selection-start-column="42" selection-end-line="16" selection-end-column="42" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nacos-consumer/src/main/java/com/chadj/nacosconsumer/fegin/HelloClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" column="28" lean-forward="false" selection-start-line="8" selection-start-column="20" selection-end-line="8" selection-end-column="28" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nacos-consumer/src/main/java/com/chadj/nacosconsumer/NacosConsumerApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="10" column="33" lean-forward="false" selection-start-line="10" selection-start-column="33" selection-end-line="10" selection-end-column="33" />
           <folding />
         </state>
       </provider>

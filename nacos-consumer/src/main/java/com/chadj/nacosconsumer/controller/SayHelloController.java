@@ -8,6 +8,11 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 import org.springframework.web.client.RestTemplate;
 
+/**
+ * @Description: RestTemplate方式调用
+ * @Create: 2019/8/20 14:14
+ * @Author ChadJ
+ */
 @RestController
 @RequestMapping
 public class SayHelloController {
